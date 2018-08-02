@@ -36,3 +36,19 @@ body{
 .logo{
   float:right;
 }
+
+.logo {
+  height:150px;
+}
+.head {
+  font-family:Lucida Handwriting; color:ff6699;
+}
+
+.twitter {
+  background-color: #4737ba
+  }
+.facebook {
+  background-color: white
+}
+.pinterest {
+  background-color: #ce0e0e
