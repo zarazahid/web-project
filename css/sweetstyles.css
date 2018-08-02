@@ -1,0 +1,39 @@
+
+.header {
+  color: white;
+  font-size:52px;
+  font-family:Lucida Handwriting;
+}
+
+.header2 {
+  color:white;
+font-size: 30px;
+font-family:Lucida Handwriting;}
+
+  .container {color:white;}
+
+.header3{color:red;
+font-size:25px;
+ font-family:Lucida handwriting;}
+
+ .img-responsive2 {width:500px;
+   height:500px;
+ left: 200px;}
+
+  .background {
+    background-image: url('../bg1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .jumbotron {
+  background-image: url('../bg1.jpg');
+      }
+
+body{
+  background-color: pink;
+}
+
+.logo{
+  float:right;
+  margin-top: 40px;
+}
