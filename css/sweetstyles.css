@@ -1,4 +1,3 @@
-
 .header {
   color: white;
   font-size:52px;
@@ -12,11 +11,9 @@ font-family:Lucida Handwriting;}
 
   .container {color:white;}
 
-<<<<<<< HEAD
-.header3{color:pink;
-=======
-.header3{color:white;
->>>>>>> 6f886cb73446a13d91b68eeebb5943ef8e15d82c
+
+.header3{
+  color: pink;
 font-size:25px;
  font-family:Lucida handwriting;}
 
