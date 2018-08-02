@@ -1,12 +1,11 @@
 
 .header {
-  color: white;
+  color: ff6699;
   font-size:52px;
   font-family:Lucida Handwriting;
 }
 
-.header2 {
-  color:white;
+.header2 {color:pink;
 font-size: 30px;
 font-family:Lucida Handwriting;}
 
@@ -35,5 +34,25 @@ body{
 
 .logo{
   float:right;
-  margin-top: 40px;
+}
+
+.logo {
+  height:150px;
+}
+.head {
+  font-family:Lucida Handwriting; color:ff6699;
+}
+
+.twitter {
+  background-color: #4737ba
+  }
+.facebook {
+  background-color: white
+}
+.pinterest {
+  background-color: #ce0e0e
+}
+
+.carousel-item img {
+  max-height: 500px;
 }
