@@ -12,12 +12,20 @@ font-family:Lucida Handwriting;}
 
   .container {color:white;}
 
+<<<<<<< HEAD
+.header3{color:pink;
+=======
 .header3{color:white;
+>>>>>>> 6f886cb73446a13d91b68eeebb5943ef8e15d82c
 font-size:25px;
  font-family:Lucida handwriting;}
 
- .img-responsive2 {width:500px;
-   height:500px;
+ .header4 {color:pink;
+ font size:30px;
+font-family:Lucida handwriting}
+
+ .img-responsive2 {width:600px;
+   height:600px;
  left: 200px;}
 
   .background {
@@ -30,7 +38,7 @@ font-size:25px;
       }
 
 body{
-  background-color: pink;
+  background-color: white;
 }
 
 .logo{
@@ -56,4 +64,20 @@ body{
 
 .carousel-item img {
   max-height: 500px;
+}
+
+.custom-carousel {
+  max-height:500px;
+  max-width: 600px;
+}
+
+.carousel-indicators{margin-right: 100px
+}
+
+p{
+  color:pink;
+}
+
+ul{
+  color: pink;
 }
