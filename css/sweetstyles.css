@@ -6,13 +6,17 @@
 }
 
 .header2 {
-  color:white;
+  color: white;
 font-size: 30px;
 font-family:Lucida Handwriting;}
 
   .container {color:white;}
 
+<<<<<<< HEAD
 .header3{color:pink;
+=======
+.header3{color:white;
+>>>>>>> 6f886cb73446a13d91b68eeebb5943ef8e15d82c
 font-size:25px;
  font-family:Lucida handwriting;}
 
@@ -39,7 +43,27 @@ body{
 
 .logo{
   float:right;
-  margin-top: 40px;
+}
+
+.logo {
+  height:150px;
+}
+.head {
+  font-family:Lucida Handwriting; color:ff6699;
+}
+
+.twitter {
+  background-color: #4737ba
+  }
+.facebook {
+  background-color: white
+}
+.pinterest {
+  background-color: #ce0e0e
+}
+
+.carousel-item img {
+  max-height: 500px;
 }
 
 .custom-carousel {
